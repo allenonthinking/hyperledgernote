@@ -56,5 +56,58 @@
 
 
 ## 4.go
+	go 2007起源	 2009发布
+
+	关键字
+	break	default	func	interface	select
+	case	defer	go	map	struct
+	chan	else	goto	package	switch
+	const	fallthrough	if	range	type
+	continue	for	import	return	var
+
+	但如果你的全局变量希望能够被外部包所使用，则需要将首个单词的首字母也大写
+
+	这种写法主要用于声明包级别的全局变量，当你在函数体内声明局部变量时，应使用简短声明语法 :=
+
+	HyperLedger Fabric 1.0
+	
+
+	goroutine channel  并发
+
+
+
+	fmt.Printf
+	%+v
+	%#v
+	%T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
